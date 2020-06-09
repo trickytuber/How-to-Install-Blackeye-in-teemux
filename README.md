@@ -1,2 +1,23 @@
-# How-to-Install-Blackeye-in-teemux
-Please don't misuse this trick $ apt update &amp;&amp; upgrade $ pkg install git $ pkg install curl $ git clone https://github.com/thelinuxchoice/blackeye $ cd blackeye $ ls $ chmod +x *blackeye.sh $ ls $ bash blackeye.sh
+# How-to-Install-Blackeye-in-termux
+Please don't misuse this trick 
+The channel is not responsible for any misuse or harmdone
+All Commands are below
+👇👇👇
+
+*Installation*
+
+$ apt update && upgrade 
+$ pkg install git
+$ pkg install curl 
+$ git clone https://github.com/thelinuxchoice/blackeye 
+$ cd blackeye 
+$ ls 
+
+*Usage*
+
+$ chmod +x *blackeye.sh 
+$ ls 
+
+*How to run*
+
+$ bash blackeye.sh
